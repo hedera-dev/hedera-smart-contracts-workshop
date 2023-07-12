@@ -1,0 +1,19 @@
+{
+    "name": "hedera-smart-contracts-workshop-intro",
+    "version": "0.0.0",
+    "description": "Hedera Smart Contracts Workshop - Intro",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "hedera"
+    ],
+    "author": "bguiz",
+    "license": "MIT",
+    "devDependencies": {
+        "@ethersproject/hdnode": "5.7.0",
+        "@hashgraph/sdk": "2.29.0",
+        "dotenv": "16.3.1"
+    }
+}
