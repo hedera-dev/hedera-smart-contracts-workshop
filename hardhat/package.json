@@ -1,0 +1,20 @@
+{
+  "name": "hedera-smart-contracts-workshop-hardhat",
+  "version": "0.0.0",
+  "description": "Hedera Smart Contracts Workshop - Hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hedera"
+  ],
+  "author": "bguiz",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "1.0.6",
+    "@nomicfoundation/hardhat-toolbox": "2.0.2",
+    "dotenv": "16.3.1",
+    "hardhat": "2.16.1"
+  }
+}
